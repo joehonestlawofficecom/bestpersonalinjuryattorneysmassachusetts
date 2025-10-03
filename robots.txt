@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bestpersonalinjuryattorneysmassachusetts.com/sitemap.xml
